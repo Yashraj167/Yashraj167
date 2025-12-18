@@ -4,7 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<!-- <p align="left"> <a href="[https://x.com/Jayu_ghevare](https://x.com/Yashraj_167)" target="blank"><img src="https://img.shields.io/twitter/follow/Jayeshghevare?logo=twitter&style=for-the-badge" alt="JayeshGhevare"  </p> -->
+<p>
+📄 <b>Resume:</b> 
+<a href="[https://drive.google.com/file/d/1AbCxyz/view](https://drive.google.com/file/d/1i3yKB_XOcicr_6RlMlLlkk1aVGQ3HHY3/view?usp=drivesdk)" target="_blank">View / Download</a>
+</p>
+
 
 - 📫 How to reach me **patilyashraj167@gmail.com**
 
