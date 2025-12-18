@@ -6,8 +6,11 @@
 
 <p>
 📄 <b>Resume:</b> 
-<a href="[https://drive.google.com/file/d/1AbCxyz/view](https://drive.google.com/file/d/1i3yKB_XOcicr_6RlMlLlkk1aVGQ3HHY3/view?usp=drivesdk)" target="_blank">View / Download</a>
+<a href="https://drive.google.com/file/d/1i3yKB_XOcicr_6RlMlLlkk1aVGQ3HHY3/view?usp=drivesdk" target="_blank">
+View / Download
+</a>
 </p>
+
 
 
 - 📫 How to reach me **patilyashraj167@gmail.com**
