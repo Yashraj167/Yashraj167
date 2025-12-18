@@ -19,9 +19,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://[www.linkedin.com/in/Yashraj-Patil/](https://www.linkedin.com/in/yashraj-patil-080416249/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yashraj Patil" height="30" width="40" /></a>  
-<a href="https://https://www.instagram.com/yashu_167_//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yashraj Patil" height="30" width="40" /></a>  
-<a href="https://x.com/Yashraj_167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yashraj Patil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yashraj-patil-080416249/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+ 
+<a href="https://www.instagram.com/yashu_167_/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+  
+<a href="https://x.com/Yashraj_167" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yashraj Patil" height="30" width="40" /></a>
 <!-- <a href="http://www.youtube.com/@jayeshghevare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Jayesh Ghevare" height="30" width="40" /></a>
 </p> -->
 
