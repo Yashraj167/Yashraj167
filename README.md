@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <a href="[https://x.com/Jayu_ghevare](https://x.com/Yashraj_167)" target="blank"><img src="https://img.shields.io/twitter/follow/Jayeshghevare?logo=twitter&style=for-the-badge" alt="JayeshGhevare"  </p>
+<!-- <p align="left"> <a href="[https://x.com/Jayu_ghevare](https://x.com/Yashraj_167)" target="blank"><img src="https://img.shields.io/twitter/follow/Jayeshghevare?logo=twitter&style=for-the-badge" alt="JayeshGhevare"  </p> -->
 
 - 📫 How to reach me **patilyashraj167@gmail.com**
 
