@@ -53,11 +53,21 @@ View / Download
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashraj167&&theme=tokyonight" alt="Yashrajpatil" /></p>  -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Yashraj167&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashraj167&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashraj167&show_icons=true&theme=tokyonight)
+<br clear="all"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashraj167&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashraj167&show_icons=true&theme=tokyonight" />
+</p>
+
+<br clear="all"/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashraj167&theme=tokyonight" />
+</p>
 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayu1572003&" alt="Jayeshghevare"/></p> -->
