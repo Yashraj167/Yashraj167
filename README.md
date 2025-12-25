@@ -45,12 +45,19 @@ View / Download
 
 
 [![Yashraj's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashraj167&theme=tokyo-night)](https://github.com/Yashraj167)
+<!-- [![Yashraj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Yashraj167&&theme=xcode)](https://github.com/Yashraj167)-->
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashraj167&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Yashrajpatil" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashraj167&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Yashrajpatil" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yashraj167&show_icons=true&locale=en&theme=tokyonight" alt="Yashrajpatil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashraj167&&theme=tokyonight" alt="Yashrajpatil" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashraj167&&theme=tokyonight" alt="Yashrajpatil" /></p>  -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Yashraj167&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashraj167&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashraj167&theme=tokyonight)
+
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayu1572003&" alt="Jayeshghevare"/></p> -->
